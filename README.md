@@ -3,6 +3,10 @@
 
 This is a tribute page dedicated to Hedy Lamarr, an Austrian-American actress and inventor whose contributions to wireless communication technology helped shape the foundation of modern technologies such as Bluetooth and Wi-Fi.
 
+## Preview
+
+![Hedy Lamarr Tribute Page Preview](https://github.com/OrasanuAna/Tribute-Page-Hedy-Lamarr/blob/master/Hedy%20Lamarr.jpg)
+
 ## Overview
 
 This page is designed to provide a brief biography, key moments in Hedy Lamarr's life, and information about her Hollywood career and her significant contributions to science and technology. It also includes quotes and references to learn more about her legacy.
@@ -38,10 +42,6 @@ The tribute page is responsive and includes a theme toggle feature that allows u
    cd Tribute-Page-Hedy-Lamarr
    ```
 3. Open the `index.html` file in your web browser to view the tribute page.
-
-## Preview
-
-![Hedy Lamarr Tribute Page Preview](https://github.com/OrasanuAna/Tribute-Page-Hedy-Lamarr/blob/master/Hedy%20Lamarr.jpg)
 
 ## Learn More
 
